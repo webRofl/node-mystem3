@@ -1,3 +1,9 @@
+This is a fork of the [original mystem3](https://github.com/koorchik/node-mystem3) package.
+
+## Changes
+- Fixed the issue with the `download-mystem.js` script.
+- Add arm64 support for darwin.
+
 [![Build Status](https://travis-ci.org/koorchik/node-mystem3.svg)](https://travis-ci.org/koorchik/node-mystem3)
 
 MyStem
